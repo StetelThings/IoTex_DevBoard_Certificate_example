@@ -1,0 +1,7 @@
+#Ignore all folders named as follows, in all subfolders
+.vscode/
+build/
+
+
+#Ignore all files with the specified extension
+#*.code-workspace

@@ -1,0 +1,3 @@
+[submodule "components/se050"]
+	path = components/se050
+	url = https://alessandrobenini@bitbucket.org/stetel/se050_esp-idf_component.git
